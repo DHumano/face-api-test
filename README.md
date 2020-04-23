@@ -1,5 +1,4 @@
 # face-api-test
 Probando faceApi.js
 
-
-https://github.com/justadudewhohacks/face-api.js
+LIVE DEMO : https://dhumano.github.io/face-api-test/
